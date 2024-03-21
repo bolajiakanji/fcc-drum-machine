@@ -39,7 +39,6 @@
   width: 30px;
   height: 20px;
   border-radius: 50px;
-
   margin-top: 20px;
   outline: 2px solid black;
 }
@@ -47,8 +46,7 @@
   width: 20px;
   height: 20px;
   border-radius: 50px;
-  bordr: 2px solid black;
+  border: 2px solid black;
   vertical-align: middle;
-
   background-color: blue;
 }

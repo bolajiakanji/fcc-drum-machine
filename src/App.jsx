@@ -166,9 +166,9 @@ function Slider({ onVolumeChange, volumeValue }) {
         type="range"
         id="rangeVolume"
         defaultValue={volumeValue}
-        min={}
-        max=1
-        step={1}
+        min={0}
+        max={1}
+        step={0.01}
         onChange={onVolumeChange}
       />
     </>
